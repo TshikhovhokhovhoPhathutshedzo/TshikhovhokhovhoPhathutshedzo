@@ -1,6 +1,10 @@
 ## Hello there, I'm Phathutushedzo! 👋
 
-<img src="./assets/sankeGit.svg" alt="My Awesome Animation" width="1000" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sankeGit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sankeGit-light.svg">
+  <img alt="My Awesome Animation" src="./assets/sankeGit-light.svg" width="500" />
+</picture>
 
 💼 Junior Data Engineering at Deutz DieselPower
 
