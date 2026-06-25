@@ -1,5 +1,7 @@
 ## Hello there, I'm Phathutushedzo! 👋
 
+<img src="./assets/sankeGit.svg" alt="My Awesome Animation" width="500" />
+
 💼 Junior Data Engineering at Deutz DieselPower
 
 - 🔭 I’m currently working on ...
@@ -10,6 +12,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 <!--
 **TshikhovhokhovhoPhathutshedzo/TshikhovhokhovhoPhathutshedzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
