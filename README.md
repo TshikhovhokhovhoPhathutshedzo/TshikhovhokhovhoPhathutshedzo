@@ -73,7 +73,7 @@ Styled directly to replicate the contact layout found in **image_2f4e4b.png**:
   <a href="https://linkedin.com/in/phathutshedzo-tshikhovhokhovho-5b3609212" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://github.com/Tshikhovhokhovho%20Phathutshedzo" target="_blank">
+  <a href="https://github.com/TshikhovhokhovhoPhathutshedzo" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   <a href="mailto:phathu301@gmail.com">
