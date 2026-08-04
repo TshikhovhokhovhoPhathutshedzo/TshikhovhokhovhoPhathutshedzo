@@ -10,16 +10,20 @@ Dynamic Computer Science & Statistics graduate specializing in **Data Engineerin
 📥 **[View My Detailed CV ]-----[DS&SD_TshikhovhokhovhoPCV.pdf](https://github.com/user-attachments/files/30691348/DS.SD_TshikhovhokhovhoPCV.pdf)**
 
 <div align="center">
-# 🌐 Visit My Portfolio
+    
+## 🌐 Visit My Portfolio
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Engineer;Software+Developer;AI+Enthusiast" />
 <br>
+
 <a href="https://phathutshedzot.lovable.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-Visit_Now-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<br><br>
+<br>
+<br>
 
 **Website:**  
-### https://phathutshedzot.lovable.app/
+### https://phathutshedzot.lovable.app
 
 </div>
 
