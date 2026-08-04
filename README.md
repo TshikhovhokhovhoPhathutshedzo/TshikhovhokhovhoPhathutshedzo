@@ -40,21 +40,21 @@ Using the clean, modern icon style inspired by **image_2f4e4b.png**, here is my 
 ## 📊 Featured Engineering & Data Science Projects
 
 ### 💰 Finance Tracker & Anomaly Detection Pipeline
-*Developed an automated transaction processing engine focused on data integrity and risk detection[cite: 2].*
-* **Data Volume & Infrastructure**: Processed and structured over 1,000 transaction records using Python (Pandas) and relational SQL structures[cite: 2].
-* **Machine Learning**: Implemented Z-Score and Isolation Forest models to isolate anomalous behavior with **92% detection precision**[cite: 2].
-* **Optimization**: Tuned and indexed SQL database queries, increasing report generation speeds by **35%** and cutting financial review time by **30%**[cite: 2].
+*Developed an automated transaction processing engine focused on data integrity and risk detection.*
+* **Data Volume & Infrastructure**: Processed and structured over 1,000 transaction records using Python (Pandas) and relational SQL structures.
+* **Machine Learning**: Implemented Z-Score and Isolation Forest models to isolate anomalous behavior with **92% detection precision**.
+* **Optimization**: Tuned and indexed SQL database queries, increasing report generation speeds by **35%** and cutting financial review time by **30%**.
 
 ### 🏡 Real Estate Price Prediction Engine
-*Built an end-to-end predictive regression model using rigorous feature engineering and evaluation[cite: 2].*
-* **Data Quality**: Performed robust data cleaning, exploratory data analysis (EDA), and feature transformations to identify pricing indicators[cite: 2].
-* **Modeling & Robustness**: Compared Linear Regression and Random Forest architectures, leveraging 5-fold cross-validation to prevent overfitting[cite: 2].
-* **Impact**: Achieved an **$R^2$ Score of 0.87** and a **22% reduction in RMSE** post-hyperparameter tuning, predicting property values within a tight $\pm$ 8-10% error margin[cite: 2].
+*Built an end-to-end predictive regression model using rigorous feature engineering and evaluation.*
+* **Data Quality**: Performed robust data cleaning, exploratory data analysis (EDA), and feature transformations to identify pricing indicators.
+* **Modeling & Robustness**: Compared Linear Regression and Random Forest architectures, leveraging 5-fold cross-validation to prevent overfitting.
+* **Impact**: Achieved an **$R^2$ Score of 0.87** and a **22% reduction in RMSE** post-hyperparameter tuning, predicting property values within a tight $\pm$ 8-10% error margin.
 
 ### 👁️ Biometric Facial Recognition Prototype
-*Engineered a computer vision image preprocessing pipeline and classification system[cite: 2].*
-* **Data Processing**: Created feature extraction and normalization pipelines for 200+ facial training images using OpenCV[cite: 2].
-* **Optimization**: Boosted overall model classification accuracy from **72% to 89%** and reduced false positives by **25%** via strategic parameter optimization[cite: 2].
+*Engineered a computer vision image preprocessing pipeline and classification system.*
+* **Data Processing**: Created feature extraction and normalization pipelines for 200+ facial training images using OpenCV.
+* **Optimization**: Boosted overall model classification accuracy from **72% to 89%** and reduced false positives by **25%** via strategic parameter optimization.
 
 ---
 
