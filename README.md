@@ -17,7 +17,6 @@ Dynamic Computer Science & Statistics graduate specializing in **Data Engineerin
 </a>
 <br>
 <br>
-**Website:**  
 ### https://phathutshedzot.lovable.app
 </div>
 
