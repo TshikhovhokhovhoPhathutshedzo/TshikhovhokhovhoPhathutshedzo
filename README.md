@@ -5,7 +5,7 @@
 
 ### 🛠️ Junior Data Engineer at Deutz Dieselpower
 
-Dynamic Computer Science & Statistics graduate specializing in **Data Engineering**, **Data Science**, and **Machine Learning**[cite: 2]. I bridge the gap between robust data infrastructure and predictive analytics, with hands-on experience building optimized data pipelines, anomaly detection systems, and interactive business intelligence dashboards[cite: 2].
+Dynamic Computer Science & Statistics graduate specializing in **Data Engineering**, **Data Science**, and **Machine Learning**. I bridge the gap between robust data infrastructure and predictive analytics, with hands-on experience building optimized data pipelines, anomaly detection systems, and interactive business intelligence dashboards.
 
 📥 **[View My Detailed CV ]-----[DS&SD_TshikhovhokhovhoPCV.pdf](https://github.com/user-attachments/files/30691348/DS.SD_TshikhovhokhovhoPCV.pdf)**
 
@@ -33,7 +33,7 @@ Using the clean, modern icon style inspired by **image_2f4e4b.png**, here is my 
   </a>
 </p>
 
-* **Core Concepts**: ETL Pipelines, OOP, Data Structures, Regression, Sampling Theory, Anomaly Detection, Power BI Dashboards[cite: 2]
+* **Core Concepts**: ETL & ELT Pipelines, OOP, Data Structures, Regression, Sampling Theory, Anomaly Detection, Power BI Dashboards[cite: 2]
 
 ---
 
