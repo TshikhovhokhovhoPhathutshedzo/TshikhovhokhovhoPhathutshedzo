@@ -70,8 +70,8 @@ Using the clean, modern icon style inspired by **image_2f4e4b.png**, here is my 
 Styled directly to replicate the contact layout found in **image_2f4e4b.png**:
 
 <p align="left">
-<a href=" https://phathutshedzot.lovable.app/" target="_blank">
-    <img src="https://www.svgrepo.com/show/532363/globe.svg"alt="Portfolio"/>
+<a href="https://phathutshedzot.lovable.app" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome" width="40"/>
   </a>
   <a href="https://linkedin.com/in/phathutshedzo-tshikhovhokhovho-5b3609212" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
