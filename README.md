@@ -9,14 +9,12 @@ Dynamic Computer Science & Statistics graduate specializing in **Data Engineerin
 
 <div align="center">
 
-## 📄 Want to Know More?
-
-Click below to explore my complete CV, including my experience, projects, technical skills, and achievements.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Interested+in+working+together%3F;Take+a+look+at+my+CV!;Let's+build+something+amazing." />
 
 <br>
 
 <a href="https://github.com/user-attachments/files/30691348/DS.SD_TshikhovhokhovhoPCV.pdf">
-    <img src="https://img.shields.io/badge/📄_View_My_Detailed_CV-Download_Now-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/📄_View_My_CV-Download_PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
