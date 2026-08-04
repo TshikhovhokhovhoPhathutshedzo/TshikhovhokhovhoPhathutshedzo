@@ -8,12 +8,23 @@
 Dynamic Computer Science & Statistics graduate specializing in **Data Engineering**, **Data Science**, and **Machine Learning**. I bridge the gap between robust data infrastructure and predictive analytics, with hands-on experience building optimized data pipelines, anomaly detection systems, and interactive business intelligence dashboards.
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Looking+for+a+Data+Scientist%3F;Machine+Learning+Engineer%3F;Software+Developer%3F;You're+in+the+right+place." />
-### 📄 Explore My Professional CV
+
+# 📄 Curriculum Vitae
+
+Everything about my professional journey in one document.
+
+✔ Education  
+✔ Technical Skills  
+✔ Projects  
+✔ Experience  
+✔ Certifications  
+
+<br>
+
 <a href="https://github.com/user-attachments/files/30691348/DS.SD_TshikhovhokhovhoPCV.pdf">
-<img src="https://img.shields.io/badge/🚀_Open_My_CV-Download_PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
-⭐ *Thank you for taking the time to review my profile.*
+
 </div>
 
 <div align="center">
