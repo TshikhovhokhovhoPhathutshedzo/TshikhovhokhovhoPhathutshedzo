@@ -35,7 +35,6 @@ Everything about my professional journey in one document.
 </a>
 <br>
 <br>
-https://phathutshedzot.lovable.app
 </div>
 
 ---
