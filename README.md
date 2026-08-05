@@ -43,11 +43,11 @@ Everything about my professional journey in one document.
 
 * **🔭 I’m currently working on**: Designing data workflows, automation systems, and supporting IT graduate initiatives at Deutz Dieselpower.
 * **🌱 I’m currently learning**: Advanced Data Engineering pipelines, cloud architecture (AWS/Azure), and scalable ETL design.
-* **👯 I’m looking to collaborate on**: Open-source Data Science tools, predictive modeling, and end-to-end data pipeline integrations[cite: 2].
+* **👯 I’m looking to collaborate on**: Open-source Data Science tools, predictive modeling, and end-to-end data pipeline integrations.
 * **🤔 I’m looking for help with**: Enterprise-level cloud data warehousing strategies.
-* **💬 Ask me about**: Python, SQL query optimization, technical trading analysis, and statistical modeling[cite: 2].
-* **📫 How to reach me**: [phathu301@gmail.com](mailto:phathu301@gmail.com) | +27 65 991 9364[cite: 2]
-* **⚡ Fun fact**: When I'm not tuning machine learning hyper-parameters or writing SQL scripts[cite: 2], I'm deep into technical market analysis tracking commodities and indices like Gold and the US30.
+* **💬 Ask me about**: Python, SQL query optimization, technical trading analysis, and statistical modeling.
+* **📫 How to reach me**: [phathu301@gmail.com](mailto:phathu301@gmail.com) | +27 65 991 9364.
+* **⚡ Fun fact**: When I'm not tuning machine learning hyper-parameters or writing SQL scripts, I'm deep into technical market analysis tracking commodities and indices like Gold and the US30.
 
 ---
 
@@ -88,7 +88,7 @@ Using the clean, modern icon style inspired by **image_2f4e4b.png**, here is my 
 
 ## 🎓 Education & Certifications
 
-* **BSc in Computer Science & Statistics** — University of Limpopo[cite: 2]
+* **BSc in Computer Science & Statistics** — University of Limpopo.
 * **Professional Continuous Learning**: Coursera Plus Data Science & Machine Learning tracks.
 
 ---
