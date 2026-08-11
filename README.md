@@ -21,7 +21,7 @@ Everything about my professional journey in one document.
 
 <br>
 
-<a href="[https://github.com/user-attachments/files/30691348/DS.SD_TshikhovhokhovhoPCV.pdf](https://github.com/user-attachments/files/30929035/PHATHUTSHEDZO.TSHIKHOVHOKHOVHO.-.Resume.pdf)">
+<a href="[https://github.com/user-attachments/files/30691348/DS.SD_TshikhovhokhovhoPCV.pdf](https://github.com/user-attachments/files/30929035/PHATHUTSHEDZO.TSHIKHOVHOKHOVHO.pdf)">
 
 
 <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
