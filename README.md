@@ -22,8 +22,7 @@ Everything about my professional journey in one document.
 <br>
 
 <a href="https://github.com/user-attachments/files/30929233/PHATHUTSHEDZO.TSHIKHOVHOKHOVHO.-.Resume.pdf" target="_blank">
-    
-    <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV as PDF"/>
 </a>
 
 </div>
