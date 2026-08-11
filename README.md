@@ -3,7 +3,7 @@
 <img src="./assets/sankeGit.svg" alt="My Awesome Animation" width="1000" />
 
 
-### 🛠️ Junior Data Engineer at Deutz Dieselpower
+### 🛠️ IT Graduate at Deutz Dieselpower
 
 Dynamic Computer Science & Statistics graduate specializing in **Data Engineering**, **Data Science**, and **Machine Learning**. I bridge the gap between robust data infrastructure and predictive analytics, with hands-on experience building optimized data pipelines, anomaly detection systems, and interactive business intelligence dashboards.
 
