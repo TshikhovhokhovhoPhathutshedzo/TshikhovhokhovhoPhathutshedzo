@@ -1,4 +1,4 @@
-# Hi there, I'm Phathutshedzo Tshikhovhokhovho 👋
+[PHATHUTSHEDZO TSHIKHOVHOKHOVHO - Resume.pdf](https://github.com/user-attachments/files/30929229/PHATHUTSHEDZO.TSHIKHOVHOKHOVHO.-.Resume.pdf)# Hi there, I'm Phathutshedzo Tshikhovhokhovho 👋
 
 <img src="./assets/sankeGit.svg" alt="My Awesome Animation" width="1000" />
 
@@ -22,6 +22,9 @@ Everything about my professional journey in one document.
 <br>
 
 <a href="https://github.com/user-attachments/files/30929035/PHATHUTSHEDZO.TSHIKHOVHOKHOVHO.pdf" target="_blank">
+    
+[PHATHUTSHEDZO TSHIKHOVHOKHOVHO - Resume.pdf](https://github.com/user-attachments/files/30929233/PHATHUTSHEDZO.TSHIKHOVHOKHOVHO.-.Resume.pdf)
+
 
 <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
