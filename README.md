@@ -1,4 +1,4 @@
-[PHATHUTSHEDZO TSHIKHOVHOKHOVHO - Resume.pdf](https://github.com/user-attachments/files/30929229/PHATHUTSHEDZO.TSHIKHOVHOKHOVHO.-.Resume.pdf)# Hi there, I'm Phathutshedzo Tshikhovhokhovho 👋
+# Hi there, I'm Phathutshedzo Tshikhovhokhovho 👋
 
 <img src="./assets/sankeGit.svg" alt="My Awesome Animation" width="1000" />
 
