@@ -57,7 +57,7 @@ Using the clean, modern icon style inspired by **image_2f4e4b.png**, here is my 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,python,java,postgres,mysql,html,css,js,nodejs,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,python,java,postgres,mysql,html,css,js,nodejs,git,github,vscode" />
   </a>
 </p>
 
